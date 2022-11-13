@@ -37,4 +37,7 @@ body .main-container button {
   border: none;
   cursor: pointer;
   color: white;
+}
+body .main-container p {
+  color: deeppink;
 }/*# sourceMappingURL=style.css.map */
