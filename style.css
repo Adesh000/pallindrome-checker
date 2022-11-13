@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(90deg, green 10%, yellow 100%);
+  background-image: linear-gradient(90deg, green 0%, yellow 100%);
   margin: 0;
   padding: 0;
   display: flex;
@@ -33,7 +33,8 @@ body .main-container button {
   font-size: 20px;
   padding: 10px 30px;
   border-radius: 10px;
-  background-color: cadetblue;
+  background-color: rgb(232, 183, 37);
   border: none;
   cursor: pointer;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
